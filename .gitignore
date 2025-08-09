@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+
+# Ignore .env file
+.env
+
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+
+
